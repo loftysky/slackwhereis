@@ -1,0 +1,14 @@
+*.pyc
+.DS_Store
+._*
+.env.sh
+client_secret.json
+ngrok
+
+/build
+_build
+
+# We store runtime info in var.
+/tmp
+/var
+
